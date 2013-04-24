@@ -8,6 +8,5 @@ A simple portable tool to capture screenshots and share them with friends using 
 It is completely safe to use. Enjoy!
 
 
-This software is licensed under the GPL
-Icon Designed by Takeru Yoshihara
+*This software is licensed under the GPL - Icon Designed by Takeru Yoshihara*
 
