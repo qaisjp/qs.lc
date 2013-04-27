@@ -1,4 +1,4 @@
-[qs.lc screenshot uploader]("http://qs.lc")
+[qs.lc screenshot uploader]("http://qs.lc/" "QS.LC")
 =========================
 Download: [tarball]("https://api.github.com/repos/qaisjp/qs.lc/tarball"), [zipball]("https://github.com/qaisjp/qs.lc/archive/master.zip")
 
